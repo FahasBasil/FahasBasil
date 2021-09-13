@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola,I am Fahas Basil 👋
 
-<!--
-**FahasBasil/FahasBasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+  <br /><br />
+  <samp>
+    I'm <a href="https://www.https://www.linkedin.com/in/fahaz-bazil-61919b219/">Fahas Basil</a> currently a First year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite .Interested in Web develoing ,App Developing ,Hacking with Kalilinux. I always like to Update myself.
+  </samp>
+</p> 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter,Kali linux .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src = "https://github-readme-stats.vercel.app/api?username=FahasBasil&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
