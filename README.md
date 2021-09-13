@@ -1,7 +1,7 @@
 ### Hola,I am Fahas Basil 👋
 
  <p align="center">
- <img src = "images/pro.jpeg">width ="300">
+ <img src = "images/pro.jpg">
   <br /><br />
   <samp>
     I'm <a href="https://www.https://www.linkedin.com/in/fahaz-bazil-61919b219/">Fahas Basil</a> currently a First year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Student Developer Lite .Interested in Web develoing ,App Developing ,Hacking with Kalilinux. I always like to Update myself.
