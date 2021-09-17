@@ -1,4 +1,4 @@
-### Hola,I am Fahas Basil 👋
+### Hola, I am FAHAS BASIL 👋
 
  <p align="center">
  <img src = "images/7zon.gif" width ="300">
