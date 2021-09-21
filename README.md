@@ -14,4 +14,21 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=FahasBasil&&show_icons=true&title_color=32CD32&icon_color=87CEFA&text_color=daf7dc&bg_color=000000">
 
+ <p align="center">
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Aman-zishan/Aman-zishan/output/github-snake.svg)
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/Fahaz Bazil/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/55238388/120218464-65c0a780-c257-11eb-9b12-3c14e8278bf5.png"></a>
+    <a href="mailto:fahasbasil007@gmail.com" alt="Contact me"><img src="https://user-images.githubusercontent.com/55238388/120218600-9d2f5400-c257-11eb-93d6-92740f5ca780.png"></a>
+    
+  </p>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FahasBasil&label=Profile%20views&color=0e75b6&style=flat" alt="FahasBasil" /> </p>
+
+
+
+
+
 
