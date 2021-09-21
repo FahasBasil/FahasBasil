@@ -1,8 +1,8 @@
 ### Hola, I am FAHAS BASIL 👋
 <!--
-**FahasBasil/FahasBasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**FahasBasil/FahasBasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->.
 
-![Desktop - 1 (1)](https://user-images.githubusercontent.com/ab.fig)
+
 
 
 
