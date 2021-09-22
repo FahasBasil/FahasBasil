@@ -24,7 +24,7 @@
 
  <p align="center">
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Aman-zishan/Aman-zishan/output/github-snake.svg)
+
 
   <p align="center">
     <a href="https://www.linkedin.com/in/fahaz-bazil-61919b219/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/55238388/120218464-65c0a780-c257-11eb-9b12-3c14e8278bf5.png"></a>
