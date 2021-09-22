@@ -1,13 +1,6 @@
 ### Hola, I am FAHAS BASIL 👋
 <!--
 **FahasBasil/FahasBasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->.
-
-
-
-
-
-
-
  <p align="center">
  <img src = "images/7zon.gif" width ="300">
   <br /><br />
@@ -23,8 +16,10 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=FahasBasil&&show_icons=true&title_color=32CD32&icon_color=87CEFA&text_color=daf7dc&bg_color=000000">
 
  <p align="center">
-  
-
+ 
+ ### Snake Graph
+ 
+![snake gif](https://github.com/FahasBasil/FahasBasil/blob/output/github-contribution-grid-snake.gif)
 
   <p align="center">
     <a href="https://www.linkedin.com/in/fahaz-bazil-61919b219/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/55238388/120218464-65c0a780-c257-11eb-9b12-3c14e8278bf5.png"></a>
