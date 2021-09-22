@@ -17,9 +17,9 @@
 
  <p align="center">
  
-        ### Contributions Graph
+ ###     Contributions Graph
  
-![snake gif](https://github.com/FahasBasil/FahasBasil/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/FahasBasil/FahasBasil/blob/output/github-contribution-grid-snake.gif)
 
   <p align="center">
     <a href="https://www.linkedin.com/in/fahaz-bazil-61919b219/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/55238388/120218464-65c0a780-c257-11eb-9b12-3c14e8278bf5.png"></a>
