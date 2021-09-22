@@ -17,7 +17,7 @@
 
  <p align="center">
  
- ### Contributions
+        ### Contributions Graph
  
 ![snake gif](https://github.com/FahasBasil/FahasBasil/blob/output/github-contribution-grid-snake.gif)
 
