@@ -10,7 +10,7 @@
   </samp>
 </p> 
 
-- 🌱 I’m currently learning Flutter,Kali linux .
+-🌱 I’m currently learning Flutter,Kali linux .
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=FahasBasil&&show_icons=true&title_color=32CD32&icon_color=87CEFA&text_color=daf7dc&bg_color=000000">
